@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Set;
 
-
 public class Parser {
 
 	Set<String> operators = Set.of("+", "-", "*", "/");
